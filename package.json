@@ -1,0 +1,23 @@
+{
+  "name": "sty590_student-management-system",
+  "version": "1.0.3",
+  "description": "this is cli based application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "STM.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
